@@ -1,0 +1,11 @@
+API DETAILS
+
+REQUEST::
+start_address:
+end_address:
+
+convert to latlong, send to walkscore
+
+
+RESPONSE
+
